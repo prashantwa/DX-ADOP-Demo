@@ -1,8 +1,8 @@
 [
     [
-        "C:\\Users\\p.rameshwar.wayal\\DevOpsDemo\\force-app",
+        "C:\\Users\\p.rameshwar.wayal\\git\\DXDevOpsDemo\\DevOpsDemo\\force-app",
         {
-            "sourcePath": "C:\\Users\\p.rameshwar.wayal\\DevOpsDemo\\force-app",
+            "sourcePath": "C:\\Users\\p.rameshwar.wayal\\git\\DXDevOpsDemo\\DevOpsDemo\\force-app",
             "isDirectory": true,
             "size": 0,
             "modifiedTime": 1490698000873,
@@ -15,9 +15,9 @@
         }
     ],
     [
-        "C:\\Users\\p.rameshwar.wayal\\DevOpsDemo\\force-app\\main",
+        "C:\\Users\\p.rameshwar.wayal\\git\\DXDevOpsDemo\\DevOpsDemo\\force-app\\main",
         {
-            "sourcePath": "C:\\Users\\p.rameshwar.wayal\\DevOpsDemo\\force-app\\main",
+            "sourcePath": "C:\\Users\\p.rameshwar.wayal\\git\\DXDevOpsDemo\\DevOpsDemo\\force-app\\main",
             "isDirectory": true,
             "size": 0,
             "modifiedTime": 1490698000873,
@@ -30,9 +30,9 @@
         }
     ],
     [
-        "C:\\Users\\p.rameshwar.wayal\\DevOpsDemo\\force-app\\main\\default",
+        "C:\\Users\\p.rameshwar.wayal\\git\\DXDevOpsDemo\\DevOpsDemo\\force-app\\main\\default",
         {
-            "sourcePath": "C:\\Users\\p.rameshwar.wayal\\DevOpsDemo\\force-app\\main\\default",
+            "sourcePath": "C:\\Users\\p.rameshwar.wayal\\git\\DXDevOpsDemo\\DevOpsDemo\\force-app\\main\\default",
             "isDirectory": true,
             "size": 0,
             "modifiedTime": 1490785076726,
@@ -45,9 +45,9 @@
         }
     ],
     [
-        "C:\\Users\\p.rameshwar.wayal\\DevOpsDemo\\force-app\\main\\default\\aura",
+        "C:\\Users\\p.rameshwar.wayal\\git\\DXDevOpsDemo\\DevOpsDemo\\force-app\\main\\default\\aura",
         {
-            "sourcePath": "C:\\Users\\p.rameshwar.wayal\\DevOpsDemo\\force-app\\main\\default\\aura",
+            "sourcePath": "C:\\Users\\p.rameshwar.wayal\\git\\DXDevOpsDemo\\DevOpsDemo\\force-app\\main\\default\\aura",
             "isDirectory": true,
             "size": 0,
             "modifiedTime": 1490698000874,
@@ -60,9 +60,9 @@
         }
     ],
     [
-        "C:\\Users\\p.rameshwar.wayal\\DevOpsDemo\\force-app\\main\\default\\classes",
+        "C:\\Users\\p.rameshwar.wayal\\git\\DXDevOpsDemo\\DevOpsDemo\\force-app\\main\\default\\classes",
         {
-            "sourcePath": "C:\\Users\\p.rameshwar.wayal\\DevOpsDemo\\force-app\\main\\default\\classes",
+            "sourcePath": "C:\\Users\\p.rameshwar.wayal\\git\\DXDevOpsDemo\\DevOpsDemo\\force-app\\main\\default\\classes",
             "isDirectory": true,
             "size": 0,
             "modifiedTime": 1490785076253,
@@ -75,9 +75,9 @@
         }
     ],
     [
-        "C:\\Users\\p.rameshwar.wayal\\DevOpsDemo\\force-app\\main\\default\\classes\\FindDealerController.cls",
+        "C:\\Users\\p.rameshwar.wayal\\git\\DXDevOpsDemo\\DevOpsDemo\\force-app\\main\\default\\classes\\FindDealerController.cls",
         {
-            "sourcePath": "C:\\Users\\p.rameshwar.wayal\\DevOpsDemo\\force-app\\main\\default\\classes\\FindDealerController.cls",
+            "sourcePath": "C:\\Users\\p.rameshwar.wayal\\git\\DXDevOpsDemo\\DevOpsDemo\\force-app\\main\\default\\classes\\FindDealerController.cls",
             "isDirectory": false,
             "size": 375,
             "modifiedTime": 1490785076250,
@@ -90,9 +90,9 @@
         }
     ],
     [
-        "C:\\Users\\p.rameshwar.wayal\\DevOpsDemo\\force-app\\main\\default\\classes\\FindDealerController.cls-meta.xml",
+        "C:\\Users\\p.rameshwar.wayal\\git\\DXDevOpsDemo\\DevOpsDemo\\force-app\\main\\default\\classes\\FindDealerController.cls-meta.xml",
         {
-            "sourcePath": "C:\\Users\\p.rameshwar.wayal\\DevOpsDemo\\force-app\\main\\default\\classes\\FindDealerController.cls-meta.xml",
+            "sourcePath": "C:\\Users\\p.rameshwar.wayal\\git\\DXDevOpsDemo\\DevOpsDemo\\force-app\\main\\default\\classes\\FindDealerController.cls-meta.xml",
             "isDirectory": false,
             "size": 174,
             "modifiedTime": 1490785076248,
@@ -105,9 +105,9 @@
         }
     ],
     [
-        "C:\\Users\\p.rameshwar.wayal\\DevOpsDemo\\force-app\\main\\default\\classes\\ProdDemoController.cls",
+        "C:\\Users\\p.rameshwar.wayal\\git\\DXDevOpsDemo\\DevOpsDemo\\force-app\\main\\default\\classes\\ProdDemoController.cls",
         {
-            "sourcePath": "C:\\Users\\p.rameshwar.wayal\\DevOpsDemo\\force-app\\main\\default\\classes\\ProdDemoController.cls",
+            "sourcePath": "C:\\Users\\p.rameshwar.wayal\\git\\DXDevOpsDemo\\DevOpsDemo\\force-app\\main\\default\\classes\\ProdDemoController.cls",
             "isDirectory": false,
             "size": 909,
             "modifiedTime": 1490785076254,
@@ -120,9 +120,9 @@
         }
     ],
     [
-        "C:\\Users\\p.rameshwar.wayal\\DevOpsDemo\\force-app\\main\\default\\classes\\ProdDemoController.cls-meta.xml",
+        "C:\\Users\\p.rameshwar.wayal\\git\\DXDevOpsDemo\\DevOpsDemo\\force-app\\main\\default\\classes\\ProdDemoController.cls-meta.xml",
         {
-            "sourcePath": "C:\\Users\\p.rameshwar.wayal\\DevOpsDemo\\force-app\\main\\default\\classes\\ProdDemoController.cls-meta.xml",
+            "sourcePath": "C:\\Users\\p.rameshwar.wayal\\git\\DXDevOpsDemo\\DevOpsDemo\\force-app\\main\\default\\classes\\ProdDemoController.cls-meta.xml",
             "isDirectory": false,
             "size": 174,
             "modifiedTime": 1490785076252,
@@ -135,9 +135,9 @@
         }
     ],
     [
-        "C:\\Users\\p.rameshwar.wayal\\DevOpsDemo\\force-app\\main\\default\\components",
+        "C:\\Users\\p.rameshwar.wayal\\git\\DXDevOpsDemo\\DevOpsDemo\\force-app\\main\\default\\components",
         {
-            "sourcePath": "C:\\Users\\p.rameshwar.wayal\\DevOpsDemo\\force-app\\main\\default\\components",
+            "sourcePath": "C:\\Users\\p.rameshwar.wayal\\git\\DXDevOpsDemo\\DevOpsDemo\\force-app\\main\\default\\components",
             "isDirectory": true,
             "size": 0,
             "modifiedTime": 1490785232330,
@@ -150,23 +150,23 @@
         }
     ],
     [
-        "C:\\Users\\p.rameshwar.wayal\\DevOpsDemo\\force-app\\main\\default\\components\\ProductDemoComponent.component",
+        "C:\\Users\\p.rameshwar.wayal\\git\\DXDevOpsDemo\\DevOpsDemo\\force-app\\main\\default\\components\\ProductDemoComponent.component",
         {
-            "state": "u",
-            "sourcePath": "C:\\Users\\p.rameshwar.wayal\\DevOpsDemo\\force-app\\main\\default\\components\\ProductDemoComponent.component",
+            "sourcePath": "C:\\Users\\p.rameshwar.wayal\\git\\DXDevOpsDemo\\DevOpsDemo\\force-app\\main\\default\\components\\ProductDemoComponent.component",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 7615,
             "modifiedTime": 1490785232274,
             "changeTime": 1490785232274,
-            "isWorkspace": false,
-            "contentHash": "635373f96ad1d1d1c36d2401020f4c9e086bd349"
+            "contentHash": "635373f96ad1d1d1c36d2401020f4c9e086bd349",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
         }
     ],
     [
-        "C:\\Users\\p.rameshwar.wayal\\DevOpsDemo\\force-app\\main\\default\\components\\ProductDemoComponent.component-meta.xml",
+        "C:\\Users\\p.rameshwar.wayal\\git\\DXDevOpsDemo\\DevOpsDemo\\force-app\\main\\default\\components\\ProductDemoComponent.component-meta.xml",
         {
-            "sourcePath": "C:\\Users\\p.rameshwar.wayal\\DevOpsDemo\\force-app\\main\\default\\components\\ProductDemoComponent.component-meta.xml",
+            "sourcePath": "C:\\Users\\p.rameshwar.wayal\\git\\DXDevOpsDemo\\DevOpsDemo\\force-app\\main\\default\\components\\ProductDemoComponent.component-meta.xml",
             "isDirectory": false,
             "size": 194,
             "modifiedTime": 1490785076256,
@@ -179,9 +179,9 @@
         }
     ],
     [
-        "C:\\Users\\p.rameshwar.wayal\\DevOpsDemo\\force-app\\main\\default\\layouts",
+        "C:\\Users\\p.rameshwar.wayal\\git\\DXDevOpsDemo\\DevOpsDemo\\force-app\\main\\default\\layouts",
         {
-            "sourcePath": "C:\\Users\\p.rameshwar.wayal\\DevOpsDemo\\force-app\\main\\default\\layouts",
+            "sourcePath": "C:\\Users\\p.rameshwar.wayal\\git\\DXDevOpsDemo\\DevOpsDemo\\force-app\\main\\default\\layouts",
             "isDirectory": true,
             "size": 0,
             "modifiedTime": 1490785076292,
@@ -194,9 +194,9 @@
         }
     ],
     [
-        "C:\\Users\\p.rameshwar.wayal\\DevOpsDemo\\force-app\\main\\default\\layouts\\Demo_Object__c-Demo Object Layout.layout-meta.xml",
+        "C:\\Users\\p.rameshwar.wayal\\git\\DXDevOpsDemo\\DevOpsDemo\\force-app\\main\\default\\layouts\\Demo_Object__c-Demo Object Layout.layout-meta.xml",
         {
-            "sourcePath": "C:\\Users\\p.rameshwar.wayal\\DevOpsDemo\\force-app\\main\\default\\layouts\\Demo_Object__c-Demo Object Layout.layout-meta.xml",
+            "sourcePath": "C:\\Users\\p.rameshwar.wayal\\git\\DXDevOpsDemo\\DevOpsDemo\\force-app\\main\\default\\layouts\\Demo_Object__c-Demo Object Layout.layout-meta.xml",
             "isDirectory": false,
             "size": 2922,
             "modifiedTime": 1490785076292,
@@ -209,9 +209,9 @@
         }
     ],
     [
-        "C:\\Users\\p.rameshwar.wayal\\DevOpsDemo\\force-app\\main\\default\\objects",
+        "C:\\Users\\p.rameshwar.wayal\\git\\DXDevOpsDemo\\DevOpsDemo\\force-app\\main\\default\\objects",
         {
-            "sourcePath": "C:\\Users\\p.rameshwar.wayal\\DevOpsDemo\\force-app\\main\\default\\objects",
+            "sourcePath": "C:\\Users\\p.rameshwar.wayal\\git\\DXDevOpsDemo\\DevOpsDemo\\force-app\\main\\default\\objects",
             "isDirectory": true,
             "size": 0,
             "modifiedTime": 1490785076297,
@@ -224,9 +224,9 @@
         }
     ],
     [
-        "C:\\Users\\p.rameshwar.wayal\\DevOpsDemo\\force-app\\main\\default\\objects\\Demo_Object__c.object-meta.xml",
+        "C:\\Users\\p.rameshwar.wayal\\git\\DXDevOpsDemo\\DevOpsDemo\\force-app\\main\\default\\objects\\Demo_Object__c.object-meta.xml",
         {
-            "sourcePath": "C:\\Users\\p.rameshwar.wayal\\DevOpsDemo\\force-app\\main\\default\\objects\\Demo_Object__c.object-meta.xml",
+            "sourcePath": "C:\\Users\\p.rameshwar.wayal\\git\\DXDevOpsDemo\\DevOpsDemo\\force-app\\main\\default\\objects\\Demo_Object__c.object-meta.xml",
             "isDirectory": false,
             "size": 3693,
             "modifiedTime": 1490785076298,
@@ -238,9 +238,9 @@
         }
     ],
     [
-        "C:\\Users\\p.rameshwar.wayal\\DevOpsDemo\\force-app\\main\\default\\objectTranslations",
+        "C:\\Users\\p.rameshwar.wayal\\git\\DXDevOpsDemo\\DevOpsDemo\\force-app\\main\\default\\objectTranslations",
         {
-            "sourcePath": "C:\\Users\\p.rameshwar.wayal\\DevOpsDemo\\force-app\\main\\default\\objectTranslations",
+            "sourcePath": "C:\\Users\\p.rameshwar.wayal\\git\\DXDevOpsDemo\\DevOpsDemo\\force-app\\main\\default\\objectTranslations",
             "isDirectory": true,
             "size": 0,
             "modifiedTime": 1490785076294,
@@ -253,9 +253,9 @@
         }
     ],
     [
-        "C:\\Users\\p.rameshwar.wayal\\DevOpsDemo\\force-app\\main\\default\\objectTranslations\\Demo_Object__c-en_US.objectTranslation-meta.xml",
+        "C:\\Users\\p.rameshwar.wayal\\git\\DXDevOpsDemo\\DevOpsDemo\\force-app\\main\\default\\objectTranslations\\Demo_Object__c-en_US.objectTranslation-meta.xml",
         {
-            "sourcePath": "C:\\Users\\p.rameshwar.wayal\\DevOpsDemo\\force-app\\main\\default\\objectTranslations\\Demo_Object__c-en_US.objectTranslation-meta.xml",
+            "sourcePath": "C:\\Users\\p.rameshwar.wayal\\git\\DXDevOpsDemo\\DevOpsDemo\\force-app\\main\\default\\objectTranslations\\Demo_Object__c-en_US.objectTranslation-meta.xml",
             "isDirectory": false,
             "size": 1097,
             "modifiedTime": 1490785076295,
@@ -268,9 +268,9 @@
         }
     ],
     [
-        "C:\\Users\\p.rameshwar.wayal\\DevOpsDemo\\force-app\\main\\default\\pages",
+        "C:\\Users\\p.rameshwar.wayal\\git\\DXDevOpsDemo\\DevOpsDemo\\force-app\\main\\default\\pages",
         {
-            "sourcePath": "C:\\Users\\p.rameshwar.wayal\\DevOpsDemo\\force-app\\main\\default\\pages",
+            "sourcePath": "C:\\Users\\p.rameshwar.wayal\\git\\DXDevOpsDemo\\DevOpsDemo\\force-app\\main\\default\\pages",
             "isDirectory": true,
             "size": 0,
             "modifiedTime": 1490785076303,
@@ -283,9 +283,9 @@
         }
     ],
     [
-        "C:\\Users\\p.rameshwar.wayal\\DevOpsDemo\\force-app\\main\\default\\pages\\productdemo.page",
+        "C:\\Users\\p.rameshwar.wayal\\git\\DXDevOpsDemo\\DevOpsDemo\\force-app\\main\\default\\pages\\productdemo.page",
         {
-            "sourcePath": "C:\\Users\\p.rameshwar.wayal\\DevOpsDemo\\force-app\\main\\default\\pages\\productdemo.page",
+            "sourcePath": "C:\\Users\\p.rameshwar.wayal\\git\\DXDevOpsDemo\\DevOpsDemo\\force-app\\main\\default\\pages\\productdemo.page",
             "isDirectory": false,
             "size": 8877,
             "modifiedTime": 1490785076304,
@@ -298,9 +298,9 @@
         }
     ],
     [
-        "C:\\Users\\p.rameshwar.wayal\\DevOpsDemo\\force-app\\main\\default\\pages\\productdemo.page-meta.xml",
+        "C:\\Users\\p.rameshwar.wayal\\git\\DXDevOpsDemo\\DevOpsDemo\\force-app\\main\\default\\pages\\productdemo.page-meta.xml",
         {
-            "sourcePath": "C:\\Users\\p.rameshwar.wayal\\DevOpsDemo\\force-app\\main\\default\\pages\\productdemo.page-meta.xml",
+            "sourcePath": "C:\\Users\\p.rameshwar.wayal\\git\\DXDevOpsDemo\\DevOpsDemo\\force-app\\main\\default\\pages\\productdemo.page-meta.xml",
             "isDirectory": false,
             "size": 287,
             "modifiedTime": 1490785076302,
@@ -313,9 +313,9 @@
         }
     ],
     [
-        "C:\\Users\\p.rameshwar.wayal\\DevOpsDemo\\force-app\\main\\default\\profiles",
+        "C:\\Users\\p.rameshwar.wayal\\git\\DXDevOpsDemo\\DevOpsDemo\\force-app\\main\\default\\profiles",
         {
-            "sourcePath": "C:\\Users\\p.rameshwar.wayal\\DevOpsDemo\\force-app\\main\\default\\profiles",
+            "sourcePath": "C:\\Users\\p.rameshwar.wayal\\git\\DXDevOpsDemo\\DevOpsDemo\\force-app\\main\\default\\profiles",
             "isDirectory": true,
             "size": 0,
             "modifiedTime": 1490785076307,
@@ -328,9 +328,9 @@
         }
     ],
     [
-        "C:\\Users\\p.rameshwar.wayal\\DevOpsDemo\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+        "C:\\Users\\p.rameshwar.wayal\\git\\DXDevOpsDemo\\DevOpsDemo\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
         {
-            "sourcePath": "C:\\Users\\p.rameshwar.wayal\\DevOpsDemo\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "sourcePath": "C:\\Users\\p.rameshwar.wayal\\git\\DXDevOpsDemo\\DevOpsDemo\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
             "isDirectory": false,
             "size": 2076,
             "modifiedTime": 1490785076389,
@@ -342,9 +342,9 @@
         }
     ],
     [
-        "C:\\Users\\p.rameshwar.wayal\\DevOpsDemo\\force-app\\main\\default\\staticresources",
+        "C:\\Users\\p.rameshwar.wayal\\git\\DXDevOpsDemo\\DevOpsDemo\\force-app\\main\\default\\staticresources",
         {
-            "sourcePath": "C:\\Users\\p.rameshwar.wayal\\DevOpsDemo\\force-app\\main\\default\\staticresources",
+            "sourcePath": "C:\\Users\\p.rameshwar.wayal\\git\\DXDevOpsDemo\\DevOpsDemo\\force-app\\main\\default\\staticresources",
             "isDirectory": true,
             "size": 0,
             "modifiedTime": 1490785076723,
@@ -357,9 +357,9 @@
         }
     ],
     [
-        "C:\\Users\\p.rameshwar.wayal\\DevOpsDemo\\force-app\\main\\default\\staticresources\\CompareInsuranceStaticUI.resource",
+        "C:\\Users\\p.rameshwar.wayal\\git\\DXDevOpsDemo\\DevOpsDemo\\force-app\\main\\default\\staticresources\\CompareInsuranceStaticUI.resource",
         {
-            "sourcePath": "C:\\Users\\p.rameshwar.wayal\\DevOpsDemo\\force-app\\main\\default\\staticresources\\CompareInsuranceStaticUI.resource",
+            "sourcePath": "C:\\Users\\p.rameshwar.wayal\\git\\DXDevOpsDemo\\DevOpsDemo\\force-app\\main\\default\\staticresources\\CompareInsuranceStaticUI.resource",
             "isDirectory": false,
             "size": 1271068,
             "modifiedTime": 1490785076393,
@@ -372,9 +372,9 @@
         }
     ],
     [
-        "C:\\Users\\p.rameshwar.wayal\\DevOpsDemo\\force-app\\main\\default\\staticresources\\CompareInsuranceStaticUI.resource-meta.xml",
+        "C:\\Users\\p.rameshwar.wayal\\git\\DXDevOpsDemo\\DevOpsDemo\\force-app\\main\\default\\staticresources\\CompareInsuranceStaticUI.resource-meta.xml",
         {
-            "sourcePath": "C:\\Users\\p.rameshwar.wayal\\DevOpsDemo\\force-app\\main\\default\\staticresources\\CompareInsuranceStaticUI.resource-meta.xml",
+            "sourcePath": "C:\\Users\\p.rameshwar.wayal\\git\\DXDevOpsDemo\\DevOpsDemo\\force-app\\main\\default\\staticresources\\CompareInsuranceStaticUI.resource-meta.xml",
             "isDirectory": false,
             "size": 324,
             "modifiedTime": 1490785076391,
@@ -387,9 +387,9 @@
         }
     ],
     [
-        "C:\\Users\\p.rameshwar.wayal\\DevOpsDemo\\force-app\\main\\default\\staticresources\\prod3.resource",
+        "C:\\Users\\p.rameshwar.wayal\\git\\DXDevOpsDemo\\DevOpsDemo\\force-app\\main\\default\\staticresources\\prod3.resource",
         {
-            "sourcePath": "C:\\Users\\p.rameshwar.wayal\\DevOpsDemo\\force-app\\main\\default\\staticresources\\prod3.resource",
+            "sourcePath": "C:\\Users\\p.rameshwar.wayal\\git\\DXDevOpsDemo\\DevOpsDemo\\force-app\\main\\default\\staticresources\\prod3.resource",
             "isDirectory": false,
             "size": 12257,
             "modifiedTime": 1490785076726,
@@ -402,9 +402,9 @@
         }
     ],
     [
-        "C:\\Users\\p.rameshwar.wayal\\DevOpsDemo\\force-app\\main\\default\\staticresources\\prod3.resource-meta.xml",
+        "C:\\Users\\p.rameshwar.wayal\\git\\DXDevOpsDemo\\DevOpsDemo\\force-app\\main\\default\\staticresources\\prod3.resource-meta.xml",
         {
-            "sourcePath": "C:\\Users\\p.rameshwar.wayal\\DevOpsDemo\\force-app\\main\\default\\staticresources\\prod3.resource-meta.xml",
+            "sourcePath": "C:\\Users\\p.rameshwar.wayal\\git\\DXDevOpsDemo\\DevOpsDemo\\force-app\\main\\default\\staticresources\\prod3.resource-meta.xml",
             "isDirectory": false,
             "size": 204,
             "modifiedTime": 1490785076722,
@@ -417,9 +417,9 @@
         }
     ],
     [
-        "C:\\Users\\p.rameshwar.wayal\\DevOpsDemo\\force-app\\main\\default\\staticresources\\SF1AppStaticUI.resource",
+        "C:\\Users\\p.rameshwar.wayal\\git\\DXDevOpsDemo\\DevOpsDemo\\force-app\\main\\default\\staticresources\\SF1AppStaticUI.resource",
         {
-            "sourcePath": "C:\\Users\\p.rameshwar.wayal\\DevOpsDemo\\force-app\\main\\default\\staticresources\\SF1AppStaticUI.resource",
+            "sourcePath": "C:\\Users\\p.rameshwar.wayal\\git\\DXDevOpsDemo\\DevOpsDemo\\force-app\\main\\default\\staticresources\\SF1AppStaticUI.resource",
             "isDirectory": false,
             "size": 1229099,
             "modifiedTime": 1490785076684,
@@ -432,9 +432,9 @@
         }
     ],
     [
-        "C:\\Users\\p.rameshwar.wayal\\DevOpsDemo\\force-app\\main\\default\\staticresources\\SF1AppStaticUI.resource-meta.xml",
+        "C:\\Users\\p.rameshwar.wayal\\git\\DXDevOpsDemo\\DevOpsDemo\\force-app\\main\\default\\staticresources\\SF1AppStaticUI.resource-meta.xml",
         {
-            "sourcePath": "C:\\Users\\p.rameshwar.wayal\\DevOpsDemo\\force-app\\main\\default\\staticresources\\SF1AppStaticUI.resource-meta.xml",
+            "sourcePath": "C:\\Users\\p.rameshwar.wayal\\git\\DXDevOpsDemo\\DevOpsDemo\\force-app\\main\\default\\staticresources\\SF1AppStaticUI.resource-meta.xml",
             "isDirectory": false,
             "size": 295,
             "modifiedTime": 1490785076443,
@@ -447,9 +447,9 @@
         }
     ],
     [
-        "C:\\Users\\p.rameshwar.wayal\\DevOpsDemo\\force-app\\main\\default\\tabs",
+        "C:\\Users\\p.rameshwar.wayal\\git\\DXDevOpsDemo\\DevOpsDemo\\force-app\\main\\default\\tabs",
         {
-            "sourcePath": "C:\\Users\\p.rameshwar.wayal\\DevOpsDemo\\force-app\\main\\default\\tabs",
+            "sourcePath": "C:\\Users\\p.rameshwar.wayal\\git\\DXDevOpsDemo\\DevOpsDemo\\force-app\\main\\default\\tabs",
             "isDirectory": true,
             "size": 0,
             "modifiedTime": 1490785076728,
@@ -462,9 +462,9 @@
         }
     ],
     [
-        "C:\\Users\\p.rameshwar.wayal\\DevOpsDemo\\force-app\\main\\default\\tabs\\Demo_Object__c.tab-meta.xml",
+        "C:\\Users\\p.rameshwar.wayal\\git\\DXDevOpsDemo\\DevOpsDemo\\force-app\\main\\default\\tabs\\Demo_Object__c.tab-meta.xml",
         {
-            "sourcePath": "C:\\Users\\p.rameshwar.wayal\\DevOpsDemo\\force-app\\main\\default\\tabs\\Demo_Object__c.tab-meta.xml",
+            "sourcePath": "C:\\Users\\p.rameshwar.wayal\\git\\DXDevOpsDemo\\DevOpsDemo\\force-app\\main\\default\\tabs\\Demo_Object__c.tab-meta.xml",
             "isDirectory": false,
             "size": 225,
             "modifiedTime": 1490785076728,
@@ -477,9 +477,9 @@
         }
     ],
     [
-        "C:\\Users\\p.rameshwar.wayal\\DevOpsDemo",
+        "C:\\Users\\p.rameshwar.wayal\\git\\DXDevOpsDemo\\DevOpsDemo",
         {
-            "sourcePath": "C:\\Users\\p.rameshwar.wayal\\DevOpsDemo",
+            "sourcePath": "C:\\Users\\p.rameshwar.wayal\\git\\DXDevOpsDemo\\DevOpsDemo",
             "isDirectory": true,
             "size": 0,
             "modifiedTime": 1490698061985,
