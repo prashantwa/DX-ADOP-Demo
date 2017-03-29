@@ -1,0 +1,497 @@
+[
+    [
+        "C:\\Users\\p.rameshwar.wayal\\DevOpsDemo\\force-app",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\p.rameshwar.wayal\\DevOpsDemo\\force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1490698000873,
+            "changeTime": 1490698000873,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\p.rameshwar.wayal\\DevOpsDemo\\force-app\\main",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\p.rameshwar.wayal\\DevOpsDemo\\force-app\\main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1490698000873,
+            "changeTime": 1490698000873,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\p.rameshwar.wayal\\DevOpsDemo\\force-app\\main\\default",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\p.rameshwar.wayal\\DevOpsDemo\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1490699487797,
+            "changeTime": 1490699487797,
+            "contentHash": "8b7f21a3db3a1f7237141abe787fff9adb77c819",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\p.rameshwar.wayal\\DevOpsDemo\\force-app\\main\\default\\aura",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\p.rameshwar.wayal\\DevOpsDemo\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1490698000874,
+            "changeTime": 1490698000874,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\p.rameshwar.wayal\\DevOpsDemo\\force-app\\main\\default\\classes",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\p.rameshwar.wayal\\DevOpsDemo\\force-app\\main\\default\\classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1490699487733,
+            "changeTime": 1490699487733,
+            "contentHash": "18180b1328ba386e6112ca1c989b4758fa2920a5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\p.rameshwar.wayal\\DevOpsDemo\\force-app\\main\\default\\classes\\FindDealerController.cls",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\p.rameshwar.wayal\\DevOpsDemo\\force-app\\main\\default\\classes\\FindDealerController.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 375,
+            "modifiedTime": 1490699487730,
+            "changeTime": 1490699487730,
+            "contentHash": "446e01cf8cdf19744345d5416465d85851e6f39a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\p.rameshwar.wayal\\DevOpsDemo\\force-app\\main\\default\\classes\\FindDealerController.cls-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\p.rameshwar.wayal\\DevOpsDemo\\force-app\\main\\default\\classes\\FindDealerController.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1490699487729,
+            "changeTime": 1490699487729,
+            "contentHash": "ec29c6f2ff617299f8e53d0ea63d440cd27207eb",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\p.rameshwar.wayal\\DevOpsDemo\\force-app\\main\\default\\classes\\ProdDemoController.cls",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\p.rameshwar.wayal\\DevOpsDemo\\force-app\\main\\default\\classes\\ProdDemoController.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 909,
+            "modifiedTime": 1490699487733,
+            "changeTime": 1490699487733,
+            "contentHash": "0532a1904dcc383b37143548e5a2162fba672ac9",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\p.rameshwar.wayal\\DevOpsDemo\\force-app\\main\\default\\classes\\ProdDemoController.cls-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\p.rameshwar.wayal\\DevOpsDemo\\force-app\\main\\default\\classes\\ProdDemoController.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1490699487732,
+            "changeTime": 1490699487732,
+            "contentHash": "ec29c6f2ff617299f8e53d0ea63d440cd27207eb",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\p.rameshwar.wayal\\DevOpsDemo\\force-app\\main\\default\\components",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\p.rameshwar.wayal\\DevOpsDemo\\force-app\\main\\default\\components",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1490699929213,
+            "changeTime": 1490699929213,
+            "contentHash": "350d6acf1cd571f6f44efefb9ee47af7db5e656f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\p.rameshwar.wayal\\DevOpsDemo\\force-app\\main\\default\\components\\ProductDemoComponent.component",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\p.rameshwar.wayal\\DevOpsDemo\\force-app\\main\\default\\components\\ProductDemoComponent.component",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 18227,
+            "modifiedTime": 1490699929172,
+            "changeTime": 1490699929172,
+            "contentHash": "afe47b065df19aad30c84cac9de2eef5e54f8076",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\p.rameshwar.wayal\\DevOpsDemo\\force-app\\main\\default\\components\\ProductDemoComponent.component-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\p.rameshwar.wayal\\DevOpsDemo\\force-app\\main\\default\\components\\ProductDemoComponent.component-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 194,
+            "modifiedTime": 1490699487735,
+            "changeTime": 1490699487735,
+            "contentHash": "c9f9dbe24f4c4f9a7b166fd5524eb056a262ec87",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\p.rameshwar.wayal\\DevOpsDemo\\force-app\\main\\default\\layouts",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\p.rameshwar.wayal\\DevOpsDemo\\force-app\\main\\default\\layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1490699487748,
+            "changeTime": 1490699487748,
+            "contentHash": "f8777e31e093f482f63cee05970ba49923fbfd43",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\p.rameshwar.wayal\\DevOpsDemo\\force-app\\main\\default\\layouts\\Demo_Object__c-Demo Object Layout.layout-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\p.rameshwar.wayal\\DevOpsDemo\\force-app\\main\\default\\layouts\\Demo_Object__c-Demo Object Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2922,
+            "modifiedTime": 1490699487754,
+            "changeTime": 1490699487754,
+            "contentHash": "d938670737f498d48047449afd6a83b9aad7de60",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\p.rameshwar.wayal\\DevOpsDemo\\force-app\\main\\default\\objects",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\p.rameshwar.wayal\\DevOpsDemo\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1490699487763,
+            "changeTime": 1490699487763,
+            "contentHash": "31842587b1afa99775dd542cb8d991b66ddf17dc",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\p.rameshwar.wayal\\DevOpsDemo\\force-app\\main\\default\\objects\\Demo_Object__c.object-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\p.rameshwar.wayal\\DevOpsDemo\\force-app\\main\\default\\objects\\Demo_Object__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 3548,
+            "modifiedTime": 1490699487763,
+            "changeTime": 1490699487763,
+            "contentHash": "d2483773bab4a2eeb7601971c43676ce39d09941",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\p.rameshwar.wayal\\DevOpsDemo\\force-app\\main\\default\\objectTranslations",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\p.rameshwar.wayal\\DevOpsDemo\\force-app\\main\\default\\objectTranslations",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1490699487755,
+            "changeTime": 1490699487755,
+            "contentHash": "58de8200227ad5945fe7b61919ac1cb30cc389f3",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\p.rameshwar.wayal\\DevOpsDemo\\force-app\\main\\default\\objectTranslations\\Demo_Object__c-en_US.objectTranslation-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\p.rameshwar.wayal\\DevOpsDemo\\force-app\\main\\default\\objectTranslations\\Demo_Object__c-en_US.objectTranslation-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1097,
+            "modifiedTime": 1490699487761,
+            "changeTime": 1490699487761,
+            "contentHash": "ca877f0813dec1ac02c7c64b790830b62641d2f7",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\p.rameshwar.wayal\\DevOpsDemo\\force-app\\main\\default\\pages",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\p.rameshwar.wayal\\DevOpsDemo\\force-app\\main\\default\\pages",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1490699487782,
+            "changeTime": 1490699487782,
+            "contentHash": "8283df58821e63e53cce787b3dce69dbd76edb58",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\p.rameshwar.wayal\\DevOpsDemo\\force-app\\main\\default\\pages\\productdemo.page",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\p.rameshwar.wayal\\DevOpsDemo\\force-app\\main\\default\\pages\\productdemo.page",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 8877,
+            "modifiedTime": 1490699487783,
+            "changeTime": 1490699487783,
+            "contentHash": "edb304c86f02f06398d299b95486b21f4442b638",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\p.rameshwar.wayal\\DevOpsDemo\\force-app\\main\\default\\pages\\productdemo.page-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\p.rameshwar.wayal\\DevOpsDemo\\force-app\\main\\default\\pages\\productdemo.page-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 287,
+            "modifiedTime": 1490699487781,
+            "changeTime": 1490699487781,
+            "contentHash": "2d278d5df19be1039ace92e75e63756891f0f978",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\p.rameshwar.wayal\\DevOpsDemo\\force-app\\main\\default\\profiles",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\p.rameshwar.wayal\\DevOpsDemo\\force-app\\main\\default\\profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1490699487784,
+            "changeTime": 1490699487784,
+            "contentHash": "dd4bc5d00d5b87ac9dcfa94ec543d354d095c25c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\p.rameshwar.wayal\\DevOpsDemo\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\p.rameshwar.wayal\\DevOpsDemo\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2076,
+            "modifiedTime": 1490699487784,
+            "changeTime": 1490699487784,
+            "contentHash": "34646e209f8c8620870884ba1bbd7f5189e179cf",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\p.rameshwar.wayal\\DevOpsDemo\\force-app\\main\\default\\staticresources",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\p.rameshwar.wayal\\DevOpsDemo\\force-app\\main\\default\\staticresources",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1490699487796,
+            "changeTime": 1490699487796,
+            "contentHash": "805fd2edfdb907a27cdbf04de38feefa187776b9",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\p.rameshwar.wayal\\DevOpsDemo\\force-app\\main\\default\\staticresources\\CompareInsuranceStaticUI.resource",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\p.rameshwar.wayal\\DevOpsDemo\\force-app\\main\\default\\staticresources\\CompareInsuranceStaticUI.resource",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1271068,
+            "modifiedTime": 1490699487789,
+            "changeTime": 1490699487789,
+            "contentHash": "b3128310f5cac12bff5a7451f17192ea6de7c5fd",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\p.rameshwar.wayal\\DevOpsDemo\\force-app\\main\\default\\staticresources\\CompareInsuranceStaticUI.resource-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\p.rameshwar.wayal\\DevOpsDemo\\force-app\\main\\default\\staticresources\\CompareInsuranceStaticUI.resource-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 324,
+            "modifiedTime": 1490699487786,
+            "changeTime": 1490699487786,
+            "contentHash": "556015554dae340dcee01f0da45652c3cbaeb838",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\p.rameshwar.wayal\\DevOpsDemo\\force-app\\main\\default\\staticresources\\prod3.resource",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\p.rameshwar.wayal\\DevOpsDemo\\force-app\\main\\default\\staticresources\\prod3.resource",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 12257,
+            "modifiedTime": 1490699487796,
+            "changeTime": 1490699487796,
+            "contentHash": "5c1ab0eef7e75649114f221f2c6a66f22141ef62",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\p.rameshwar.wayal\\DevOpsDemo\\force-app\\main\\default\\staticresources\\prod3.resource-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\p.rameshwar.wayal\\DevOpsDemo\\force-app\\main\\default\\staticresources\\prod3.resource-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 204,
+            "modifiedTime": 1490699487795,
+            "changeTime": 1490699487795,
+            "contentHash": "b473771fda938d35453ce0c0378c39db44431006",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\p.rameshwar.wayal\\DevOpsDemo\\force-app\\main\\default\\staticresources\\SF1AppStaticUI.resource",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\p.rameshwar.wayal\\DevOpsDemo\\force-app\\main\\default\\staticresources\\SF1AppStaticUI.resource",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1229099,
+            "modifiedTime": 1490699487794,
+            "changeTime": 1490699487794,
+            "contentHash": "1ad7ed2fcf6cf998d535e5659b9c76a3f432c79e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\p.rameshwar.wayal\\DevOpsDemo\\force-app\\main\\default\\staticresources\\SF1AppStaticUI.resource-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\p.rameshwar.wayal\\DevOpsDemo\\force-app\\main\\default\\staticresources\\SF1AppStaticUI.resource-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 295,
+            "modifiedTime": 1490699487791,
+            "changeTime": 1490699487791,
+            "contentHash": "09e527021d8fa12128a3bb04c18cf77331ba1a28",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\p.rameshwar.wayal\\DevOpsDemo\\force-app\\main\\default\\tabs",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\p.rameshwar.wayal\\DevOpsDemo\\force-app\\main\\default\\tabs",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1490699487798,
+            "changeTime": 1490699487798,
+            "contentHash": "19962b46a752f146dcc5a07b163babdb210feb63",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\p.rameshwar.wayal\\DevOpsDemo\\force-app\\main\\default\\tabs\\Demo_Object__c.tab-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\p.rameshwar.wayal\\DevOpsDemo\\force-app\\main\\default\\tabs\\Demo_Object__c.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 225,
+            "modifiedTime": 1490699487798,
+            "changeTime": 1490699487798,
+            "contentHash": "4320804cd223afaa728acedf63622ae630e79e78",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\p.rameshwar.wayal\\DevOpsDemo",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\p.rameshwar.wayal\\DevOpsDemo",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1490698061985,
+            "changeTime": 1490698061985,
+            "contentHash": "0b476051be305d2f90024095b3b5c9395bdc21c1",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
